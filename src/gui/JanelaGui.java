@@ -22,7 +22,7 @@ import javax.swing.UIManager;
 
 public abstract class JanelaGui {
 
-	private String nomeAplicacao = "AlgaWorks - Chat";
+	private String nomeAplicacao = " Chat ";
     private JFrame chatFrame = new JFrame(nomeAplicacao);
     private JButton enviarMensagemButton;
     private JTextField mensagemTextField;
